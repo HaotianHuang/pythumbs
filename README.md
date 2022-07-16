@@ -1,5 +1,5 @@
 # pythumbs
 Binary image classifier
 
-![Alt Text]('example.gif')
+![Alt Text](https://github.com/HaotianHuang/pythumbs/blob/main/demo.gif "demo")
 
