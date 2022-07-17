@@ -4,10 +4,9 @@
 
 # How to run model inference on browser (like above)
 
-1. CLone the repo 
-2. Set directory to 'onnxruntimenextjs-template'
-3. 'npm run build'
-4. 'npm start' 
+1. Clone the repo
+2. Edit the template from [onnx](https://github.com/microsoft/onnxruntime-nextjs-template) to use pythumbs-v1.2.onnx
+3. npm install -> npm run build -> npm start
 
 Add inference inputs of your own through editing the 'sample-image-urls.ts' file. 
 
